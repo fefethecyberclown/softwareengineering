@@ -64,16 +64,16 @@ CREATE TABLE `crosshair` (
 --
 
 INSERT INTO `crosshair` (`id`, `name`, `picture`, `code`) VALUES
-(1, 'Jinggg', 'jinggg.png', ''),
-(2, 'cned', 'cned.png', ''),
-(3, 'Cyro', 'Cyro.png', ''),
-(4, 'shroud', 'shroud.png', ''),
-(5, 'tarik', 'tarik.png', ''),
-(6, 'Tenz', 'tenz.png', ''),
-(7, 'Hollow circle', 'Hollow circle.png', ''),
-(8, 'Shuriken', 'shuriken.png', ''),
-(9, 'Asuna', 'asuna.png', ''),
-(10, 'test', 'tenz.png', '');
+(1, 'Jinggg', 'jinggg.png', '0;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0'),
+(2, 'cned', 'cned.png', '0;P;c;1;u;7FFFD4FF;o;1;d;1;0b;0;1b;0'),
+(3, 'Cyro', 'Cyro.png', '0;P;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0'),
+(4, 'shroud', 'shroud.png', '0;P;c;4;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0'),
+(5, 'tarik', 'tarik.png', '0;P;o;1;d;1;0b;0;1b;0'),
+(6, 'Tenz', 'tenz.png', '0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1'),
+(7, 'Hollow circle', 'Hollow circle.png', '0;P;h;0;f;0;0t;4;0l;1;0o;2;0a;1;0f;0;1b;0'),
+(8, 'Shuriken', 'shuriken.png', '0;P;c;7;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1t;8;1l;1;1o;1;1a;1;1m;0;1f;0'),
+(9, 'Asuna', 'asuna.png', '0;P;o;1;0t;1;0l;2;0a;1;0f;0;1b;0'),
+(10, 'test', 'tenz.png', '0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1');
 
 -- --------------------------------------------------------
 
