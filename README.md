@@ -5,6 +5,11 @@
 2501962126-Timothy Gilbert
 2540123100-Victor Benaya
 ```
+Jika Docker Error dapat menggunakan localhost di repo  https://github.com/fefethecyberclown/localSE
+
+LANGKAH RUN WEBSITE
+
+
 Clone Github ini
 Masuk ke terminal
 
@@ -70,4 +75,3 @@ Password: Fefe123_
 
 ![image](https://github.com/fefethecyberclown/softwareengineering/assets/88881191/6e3215b7-5d4b-4c46-96a9-e64c61a0e530)
 Enjoyy !!
-
